@@ -1,5 +1,6 @@
 faiss-cpu==1.10.0
 keras==2.8.0
 Keras-Preprocessing==1.1.2
+sentence-transformers==3.4.1
 torch==2.6.0
 
